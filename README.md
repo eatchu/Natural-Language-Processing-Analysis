@@ -3,6 +3,11 @@
 ---
 
 ## **Amazon Review Analysis**
+
+- Amazon 숙취해소제 제품의 리뷰 데이터 분석
+- 아주 basic한 전처리와 단어 빈도수 확인
+- 제품에 대한 감성분석 진행
+
 #### FOLDER [Amazon_Review_Analysis](./Amazon_Review_Analysis) <br>
 #### DATA : 20200828 amazon_review.xlsx
 ![data Sample](_assets/amazon_data_sample.png)
