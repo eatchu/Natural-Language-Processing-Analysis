@@ -17,3 +17,9 @@
 > [Sentiment Analysis1](./Amazon_Review_Analysis/amazon_review3_TitleTokenizer.ipynb) <br>
 > [Sentiment Analysis2](./Amazon_Review_Analysis/amazon_review4_ContentTokenizer.ipynb)
 
+
+---
+
+## **Spooky Author Identification**
+
+- Kaggle 과제 : https://www.kaggle.com/c/spooky-author-identification
